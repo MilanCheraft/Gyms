@@ -1,53 +1,51 @@
-{
-  "gyms": [
-    {
-      "id": 1,
-      "name": "Fitness First Bruges",
-      "address": "Frank Van Ackerpromenade 4, 8000 Brugge",
-      "latitude": 51.197010,
-      "longitude": 3.219270
-    },
-    {
-      "id": 2,
-      "name": "Ctrl Gym",
-      "address": "Frank Van Ackerpromenade 5, 8000 Brugge",
-      "latitude": 51.197270,
-      "longitude": 3.219110
-    },
-    {
-      "id": 3,
-      "name": "Pure Senses",
-      "address": "Titecastraat 98, 8200 Brugge",
-      "latitude": 51.191440,
-      "longitude": 3.202270
-    },
-    {
-      "id": 4,
-      "name": "Strength House Brugge",
-      "address": "Ontmijnerslaan 44, 8200 Brugge",
-      "latitude": 51.197630,
-      "longitude": 3.202830
-    },
-    {
-      "id": 5,
-      "name": "Sportif",
-      "address": "Gistelse Steenweg 392, 8200 Brugge",
-      "latitude": 51.199070,
-      "longitude": 3.188900
-    },
-    {
-      "id": 6,
-      "name": "Fitters Gym",
-      "address": "Dirk Martensstraat 14, 8200 Brugge",
-      "latitude": 51.199070,
-      "longitude": 3.188900
-    },
-    {
-      "id": 7,
-      "name": "Jims Brugge",
-      "address": "Scheepsdalelaan 3, 8000 Brugge",
-      "latitude": 51.199070,
-      "longitude": 3.188900
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Fitness First Bruges",
+    "address": "Frank Van Ackerpromenade 4, 8000 Brugge",
+    "latitude": 51.197010,
+    "longitude": 3.219270
+  },
+  {
+    "id": 2,
+    "name": "Ctrl Gym",
+    "address": "Frank Van Ackerpromenade 5, 8000 Brugge",
+    "latitude": 51.197270,
+    "longitude": 3.219110
+  },
+  {
+    "id": 3,
+    "name": "Pure Senses",
+    "address": "Titecastraat 98, 8200 Brugge",
+    "latitude": 51.191440,
+    "longitude": 3.202270
+  },
+  {
+    "id": 4,
+    "name": "Strength House Brugge",
+    "address": "Ontmijnerslaan 44, 8200 Brugge",
+    "latitude": 51.197630,
+    "longitude": 3.202830
+  },
+  {
+    "id": 5,
+    "name": "Sportif",
+    "address": "Gistelse Steenweg 392, 8200 Brugge",
+    "latitude": 51.199070,
+    "longitude": 3.188900
+  },
+  {
+    "id": 6,
+    "name": "Fitters Gym",
+    "address": "Dirk Martensstraat 14, 8200 Brugge",
+    "latitude": 51.199070,
+    "longitude": 3.188900
+  },
+  {
+    "id": 7,
+    "name": "Jims Brugge",
+    "address": "Scheepsdalelaan 3, 8000 Brugge",
+    "latitude": 51.199070,
+    "longitude": 3.188900
+  }
+]
