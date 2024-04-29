@@ -1,0 +1,46 @@
+{
+    "gyms": [
+      {
+        "name": "Fitness First Bruges",
+        "address": "Frank Van Ackerpromenade 4, 8000 Brugge",
+        "latitude": 51.209348,  
+        "longitude": 3.224699  
+          },
+      {
+        "name": "Ctrl Gym",
+        "address": "Frank Van Ackerpromenade 5, 8000 Brugge",
+        "latitude": 51.209648,  
+        "longitude": 3.224999  
+      },
+      {
+        "name": "Pure Senses",
+        "address": "Titecastraat 98, 8200 Brugge",
+        "latitude": 51.209648, 
+        "longitude": 3.224999  
+      },
+      {
+        "name": "Strength House Brugge",
+        "address": "Ontmijnerslaan 44, 8200 Brugge",
+        "latitude": 51.209648, 
+        "longitude": 3.224999  
+      },
+      {
+        "name": "Sportif",
+        "address": "Gistelse Steenweg 392, 8200 Brugge",
+        "latitude": 51.209648, 
+        "longitude": 3.224999  
+      },
+      {
+        "name": "Fitters Gym",
+        "address": "Dirk Martensstraat 14, 8200 Brugge",
+        "latitude": 51.209648, 
+        "longitude": 3.224999  
+      },
+      {
+        "name": "Jims Brugge",
+        "address": "Scheepsdalelaan 3, 8000 Brugge",
+        "latitude": 51.209648, 
+        "longitude": 3.224999  
+      }
+    ]
+  }
